@@ -1,2 +1,0 @@
-# TopReads
-My favorite reads
