@@ -30,8 +30,30 @@ by Patrick King
 * Create an artificial feeling of closeness and similarity that leads to a higher level of likability
 
 
+#### Chapter 8: Set boundaries on the conversation
+
+* "I have to go in 10 minutes but..."
+* "I just want to ask you one small thing before I go.."
 
 
+#### Chapter 9: Derail your train of thought
+
+* Being a great conversationalist involves giving the other person the chance to speak to their heart's content
+* Listening to others creates an emotional debt
+
+
+#### Chapter 12: Make the other person an Expert
+
+
+#### Chapter 13: More effective compliments
+
+* Things people have made choices about and have control over
+
+
+#### Chapter 15: Use double explanations
+
+* layman's answer
+* Expert explanation if the person is still interested
 
 
 
