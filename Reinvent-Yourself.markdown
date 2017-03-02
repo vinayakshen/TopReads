@@ -14,5 +14,15 @@ by James Altucher
 * At a social gathering, strike up one-on-one bonding with the people around you rather than trying to impress the whole group.
 * the PLUS (find a takeaway and write it down), the EQUAL (share the takeaway), the MINUS(solidify the takeaway)
 
+#### Chapter 4: The 7 techniques to influence anyone
+* Robert Cialdini is the most influential person in the world - "Influence" sold 3M copiesand defines the 6 critical aspects of influence.
+* 7 aspects of influence
+  Reciprocity 
+  Likability 
+  Consistency 
+  Social Proof 
+  Authority 
+  Scarcity 
+  Unity (Us against the world)
 
 
