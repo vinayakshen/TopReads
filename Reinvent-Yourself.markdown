@@ -16,13 +16,6 @@ by James Altucher
 
 #### Chapter 4: The 7 techniques to influence anyone
 * Robert Cialdini is the most influential person in the world - "Influence" sold 3M copiesand defines the 6 critical aspects of influence.
-* 7 aspects of influence
-  Reciprocity 
-  Likability 
-  Consistency 
-  Social Proof 
-  Authority 
-  Scarcity 
-  Unity (Us against the world)
+* 7 aspects of influence - Reciprocity, Likability, Consistency, Social Proof, Authority, Scarcity, Unity (Us against the world)
 
 
