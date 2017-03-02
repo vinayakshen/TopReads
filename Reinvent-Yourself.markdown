@@ -9,3 +9,6 @@ by James Altucher
 * You are not the average of the five people around you. You are the average of the 5 habits you do.
 
 #### Chapter 2: The Ultimate guide to finding a mentor
+
+#### Chapter 3: How to have 1,000 mentors in your life
+* Establish deadlines in advance so everyone knows that you are planning to leave early
