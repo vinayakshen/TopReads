@@ -22,7 +22,7 @@ by James Altucher
 * Robert Cialdini is the most influential person in the world - "Influence" sold 3M copiesand defines the 6 critical aspects of influence.
 * 7 aspects of influence - Reciprocity, Likability (outline the negatives of dealing with you), Consistency, Social Proof (show that several others are willing to do X for you), Authority, Scarcity, Unity (Us against the world)
 
-#### Chapter 5: Chase Jarvis
+#### Chapter 13: Chase Jarvis
 * The only skill for survival and success is having the ability to connect.
 
 
