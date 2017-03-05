@@ -34,3 +34,9 @@ by James Altucher
 5. Sell myself.
 6. Be persistent.
 7. Time heals everything. Even a No forms an attachment through time.
+
+#### Chapter 15: Wayne Dyer
+
+* The key to an enriched life is to have a burning desire. You must have an inner flame that, no matter what goes before you, never flickers.
+* 1% improvement rule in everything you want to change
+* NO ONE ELSE has the over your mindset. Inside your chest, you are sovereign.
