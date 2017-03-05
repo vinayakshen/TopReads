@@ -26,5 +26,11 @@ by James Altucher
 * The only skill for survival and success is having the ability to connect.
 
 
-
-
+#### Chapter 14: 7 things I learnt from my greatest teachers
+1. How to handle "No".
+2. How to ask.
+3. How to stand out in some way.
+4. Be polite.
+5. Sell myself.
+6. Be persistent.
+7. Time heals everything. Even a No forms an attachment through time.
