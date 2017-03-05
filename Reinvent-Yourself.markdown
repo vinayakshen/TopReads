@@ -40,3 +40,15 @@ by James Altucher
 * The key to an enriched life is to have a burning desire. You must have an inner flame that, no matter what goes before you, never flickers.
 * 1% improvement rule in everything you want to change
 * NO ONE ELSE has the over your mindset. Inside your chest, you are sovereign.
+
+#### Chapter 18: Elon Musk
+
+* The first step is to establish that something is possible; then the probability will occur.
+* It's OK to have your eggs in one basket as long as you control what happens to that basket.
+* Persistence is very important. You should not give up until you are forced to give up.
+* Feedback loop and constantly question yourself on how to do things better.
+
+
+#### Chapter 24: Louis Armstrong
+
+* You can be only good at so many things. Always be looking for new opportunities to improve incrementally.
