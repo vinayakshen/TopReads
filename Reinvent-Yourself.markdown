@@ -18,9 +18,13 @@ by James Altucher
 * the PLUS (find a takeaway and write it down), the EQUAL (share the takeaway), the MINUS(solidify the takeaway)
 
 
-#### Chapter 4: The 7 techniques to influence anyone
+#### Chapter 5: The 7 techniques to influence anyone
 * Robert Cialdini is the most influential person in the world - "Influence" sold 3M copiesand defines the 6 critical aspects of influence.
-* 7 aspects of influence - Reciprocity, Likability, Consistency, Social Proof, Authority, Scarcity, Unity (Us against the world)
+* 7 aspects of influence - Reciprocity, Likability (outline the negatives of dealing with you), Consistency, Social Proof (show that several others are willing to do X for you), Authority, Scarcity, Unity (Us against the world)
+
+#### Chapter 5: Chase Jarvis
+* The only skill for survival and success is having the ability to connect.
 
 
-#### Chapter 5: Never split the difference
+
+
