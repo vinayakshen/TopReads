@@ -19,3 +19,14 @@ by Damon Zahariades
 * Same time each day/period
 * Identify potential stumbling blocks
 * Montior the progress once a week
+
+
+#### Part V : 7 Rules for Success
+
+* Rule 1 - Start small
+* Rule 2 - 30 day challenge
+* Rule 3 - One habit at a time
+* Rule 4 - Disclose your habit to others
+* Rule 5 - Early in the morning
+* Rule 6 - Remind yourself of the reason
+* Rule 7 - Forgive if you fail and look towards the future
