@@ -32,7 +32,7 @@ by Damon Zahariades
 * Rule 7 - Forgive if you fail and look towards the future
 
 
-#### Part VI : 7 Rules for Success
+#### Part VI : Tricks/Hacks to make habits last
 
 * Trick 1 - Leverage the power of accountability
 * Trick 2 - Find the right people who will be invested in your success
