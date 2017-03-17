@@ -31,3 +31,6 @@
 
 * Contrived - invented, devised, or manufactured. Artificial or feigned. 
 
+* Curate - to pull together, sift through, or select for presentation ("We curate merchandise with a sharp eye for trending fashion")
+
+
