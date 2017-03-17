@@ -29,4 +29,5 @@
 
 * Back-of-the-envelope calculation - A calculation using estimates and rounded numbers to arrive at a ballpark figure. Better than a guess but not as accurate as calculation using precise numbers and spreadsheets.
 
+* Contrived - invented, devised, or manufactured. Artificial or feigned. 
 
