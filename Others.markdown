@@ -35,4 +35,5 @@
 
 * Encapsulate - summarize, give the gist of, or put in a nutshell
 
+* Hubris - conceitedness, haughtiness, excessive pride, superciliousness
 
