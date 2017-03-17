@@ -22,3 +22,5 @@
 * Malaise - A general feeling of discomfort, despondency, uneasiness or angst
 
 * Crony Capitalism - An economy where business leaders and government have mutually beneficial relationships and is a nominally free market characterized by preferential regulations; Marriage of state and private interests.
+
+* Hedge Funds - A limited partnership of accredited investors where the pooled money is invested using high risk strategies in hopes of realizing large scale capital gains. They usual require a large minimum investment and the withdrawals are allowed only after an initial lock-up period and are allowed on a quarterly or bi-annual basis.
