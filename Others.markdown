@@ -15,3 +15,6 @@
 
 * Cosmic - incalculable, colossal, limitless, immense
 
+* Contrarian - a person who rejects or opposes popular opinion esp in stock eschange dealing.
+
+* Protracted - long-lasting, long drawn out, dragged out (weeks of protracted negotiations)
