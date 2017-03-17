@@ -26,3 +26,7 @@
 * Hedge Funds - A limited partnership of accredited investors where the pooled money is invested using high risk strategies in hopes of realizing large scale capital gains. They usual require a large minimum investment and the withdrawals are allowed only after an initial lock-up period and are allowed on a quarterly or bi-annual basis.
 
 * Bailout - Giving financial support to a company that is facing bankruptcy. It is done to allow a company to fail gracefully without spreading contagion or market disturbance.
+
+* Back-of-the-envelope calculation - A calculation using estimates and rounded numbers to arrive at a ballpark figure. Better than a guess but not as accurate as calculation using precise numbers and spreadsheets.
+
+
