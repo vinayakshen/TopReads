@@ -37,3 +37,9 @@
 
 * Hubris - conceitedness, haughtiness, excessive pride, superciliousness
 
+* Manifesto - A written statement that describes the policies, goals, or objectives of a person or a group
+
+* Cogent - Compelling, weighty, convincing, potent
+
+* Microcosm - A smaller community that encapsulates the features or characteristic of something larger. (Berlin is a microcosm of Germany)
+
