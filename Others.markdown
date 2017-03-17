@@ -18,3 +18,7 @@
 * Contrarian - a person who rejects or opposes popular opinion esp in stock eschange dealing.
 
 * Protracted - long-lasting, long drawn out, dragged out (weeks of protracted negotiations)
+
+* Malaise - A general feeling of discomfort, despondency, uneasiness or angst
+
+* Crony Capitalism - An economy where business leaders and government have mutually beneficial relationships and is a nominally free market characterized by preferential regulations; Marriage of state and private interests.
