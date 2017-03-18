@@ -31,6 +31,10 @@
 * Complex Sales - Build strong network and relationships
 * Distribution Doldrums - Between personal sales and comples sales there exists a dead zone.
 
-
+#### Chapter 12 - Man and Machine
+* Globalization means substitution
+* Technology means complementarity
+* Man-machine symbiosis - Igor developed using technology (to flag the most suspicious transactions and human operators would make the final judgement)
+* Palantir transcends the biases (NSA relaying on technology and CIA human capital) by using man-machine join solution 
 
 
