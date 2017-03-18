@@ -29,6 +29,7 @@
 * Advertisements dont exist to make you buy a product right away; they embed subtle impressions which will drive sales later.
 * Personal Sales - Start with a small group and grow (ZocDoc, Box)
 * Complex Sales - Build strong network and relationships
+* Distribution Doldrums - Between personal sales and comples sales there exists a dead zone.
 
 
 
