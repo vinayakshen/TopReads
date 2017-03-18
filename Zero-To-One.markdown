@@ -13,6 +13,7 @@
 
 #### Chapter 5 - Last Mover Advantage
 * A great business is defined by its ability to generate cash flows in the future.
-
-
-
+1. Proprietary technology - 10x better
+2. Network Effects
+3. Economies of Scale - Stronger as it gets bigger
+4. Brand perecption precedes the business/products
