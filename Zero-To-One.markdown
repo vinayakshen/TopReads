@@ -37,4 +37,13 @@
 * Man-machine symbiosis - Igor developed using technology (to flag the most suspicious transactions and human operators would make the final judgement)
 * Palantir transcends the biases (NSA relaying on technology and CIA human capital) by using man-machine join solution 
 
+#### Chapter 13 - Seeing Green
+* Tesla 7 for 7
+1. Technology - Other companies such as Daimler, Benz, Toyota rely on it.
+2. Timing - Government support for cleantech.
+3. Monopoly - Market for high-end electric sports cars.
+4. Team - Musk is a consummate engineer and a sportsman.
+5. Distribution - Sells its services and products in its own stores.
+6. Durability - Founder is still in charge and its a coveted brand.
+7. Secrets - Tesla knew that fashion drove interest in cleantech.
 
