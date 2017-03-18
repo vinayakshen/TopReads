@@ -1,7 +1,7 @@
 
 
 #### Chapter 1 - Challenge of the Future
-* Vertical or Intensive progress is harder to imagine as it involves doing new things
+* <b>Vertical</b> or Intensive progress is harder to imagine as it involves doing new things
 
 #### Chapter 2 - Party likes it 1999
 * Dot-com bubble - Tech investors were irrationally exuberant
