@@ -17,3 +17,19 @@
 2. Network Effects
 3. Economies of Scale - Stronger as it gets bigger
 4. Brand perecption precedes the business/products
+
+#### Chapter 7 - Power Law of Venture Capital
+* A small handful of companies radically outperform all others
+* VC firms have a portfolio but a good venture portfolio must have potential to succeed at a vast scale.
+
+#### Chapter 8 - Secrets
+* AirBnB, Uber, AliBaba saw untapped supply and unaddressed demand. They don't own any property, cars, or inventory yet they are the biggest players in their respective industries.
+
+#### Chapter 11 - If you build will they come
+* Advertisements dont exist to make you buy a product right away; they embed subtle impressions which will drive sales later.
+* Personal Sales - Start with a small group and grow (ZocDoc, Box)
+* Complex Sales - Build strong network and relationships
+
+
+
+
