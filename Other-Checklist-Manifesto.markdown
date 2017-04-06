@@ -5,4 +5,8 @@
 
 * Jugular vein - Vein most vulnerable to attack
 
-* 
+* Trounce - rout, crush, overwhelm
+
+* Byzantine - Excessively complicated (a bill to simplify the byzantine tax structure)
+
+* Girder - A horizontal support beam used in construction.
