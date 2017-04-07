@@ -35,3 +35,13 @@
 
 * Sot - Someone who drinks too much alcohol
 
+* Wobble - Totter, teeter, an unsteady movement from side to side
+
+* Lexicon - Vocabulary of a person
+
+* Lodestar - A star that is used to guide the position of a shi particularly Polaris
+
+* Ossified - become stagnant or rigid; calcify; fossilize; rigidify; stagnate
+
+* vicissitude - A change in fortune or circumstances ousually something unpleasant (the vicissitude of the seasons)
+
