@@ -17,3 +17,5 @@
 
 * Laminate - Resembles wood but less maintenance, wear and tear
 
+* Cold calling - Make an unsolicited call generally to sell a product
+
